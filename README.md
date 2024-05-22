@@ -7,9 +7,9 @@ Hi Guys , This just a simple desktop application made using **Tkinter** for them
 First of all just clone the repository using git command or using by clicking download zip button 
 
 ```bash 
-$-> git clone https://github.com/Kalebu/Python-phonenumber-tracker-App
-$-> cd Python-phonenumber-tracker-App
-$ Python-phonenumber-tracker-App-> 
+$-> git clone https://github.com/saad-ahmad-zahid/phone-tracker.git
+$-> cd phone-tracker
+$ phone-tracker-> 
 ```
 
 ### Requirements 
